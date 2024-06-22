@@ -1,0 +1,11 @@
+{
+	"scripts": {
+		"dev": "turbo dev",
+		"build": "turbo build",
+		"start": "turbo start",
+		"preview": "turbo preview"
+	},
+	"stackblitz": {
+		"startCommand": "turbo start"
+	}
+}
