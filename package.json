@@ -1,4 +1,5 @@
 {
+	"name": "examples-wrikka-com",
 	"scripts": {
 		"dev": "turbo dev",
 		"build": "turbo build",
@@ -7,5 +8,9 @@
 	},
 	"stackblitz": {
 		"startCommand": "turbo start"
-	}
+	},
+	"devDependencies": {
+		"turbo": "^2.0.4"
+	},
+	"packageManager": "pnpm@9.4.0"
 }
