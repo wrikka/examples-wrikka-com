@@ -1,0 +1,14 @@
+{
+	"recommendations": [
+		"pkief.material-icon-theme",
+		"vue.volar",
+		"biomejs.biome",
+		"codeium.codeium",
+		"idered.npm",
+		"kricsleo.vscode-package-json-inspector",
+		"bradlc.vscode-tailwindcss",
+		"gruntfuggly.todo-tree",
+		"antfu.unocss",
+		"vitest.explorer"
+	]
+}
