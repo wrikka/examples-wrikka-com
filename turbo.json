@@ -4,14 +4,14 @@
 		"build": {
 			"dependsOn": ["^build"],
 			"outputs": [".next/**", "!.next/cache/**"],
-            "cache": true
+			"cache": true
 		},
 		"check-types": {
 			"dependsOn": ["^check-types"]
 		},
-        "format": {
-            "dependsOn": ["^format"]
-        },
+		"format": {
+			"dependsOn": ["^format"]
+		},
 		"dev": {
 			"cache": false,
 			"persistent": true
