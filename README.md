@@ -1,5 +1,7 @@
 ## Try Playground
 
+ยังไม่เรียบร้อย 
+
 - html => `pnpm run dev`
 - HTML with CSS => `pnpm run dev`
 - JavaScript => `pnpm run dev`
